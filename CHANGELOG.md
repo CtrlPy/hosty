@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/CtrlPy/hosty/compare/v1.0.1...v1.0.2) (2024-12-13)
+
+
+### Bug Fixes
+
+* add pkgbuild ([9f6f000](https://github.com/CtrlPy/hosty/commit/9f6f0003d606ffc93deb79647b557bcba0b29e53))
+
 ## [1.0.1](https://github.com/CtrlPy/hosty/compare/v1.0.0...v1.0.1) (2024-12-13)
 
 
