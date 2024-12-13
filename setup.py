@@ -6,7 +6,7 @@ HERE = pathlib.Path(__file__).parent
 long_description = (HERE / "README.md").read_text()
 
 setup(
-    name="hos-utility",
+    name="hosty",
     version="1.3.1",
     packages=find_packages(),
     install_requires=[
@@ -14,15 +14,15 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "hos = hos:main",
+            "hosty = hosty:main",
         ],
     },
-    author="nesnit",
-    author_email="nesnit@example.com",
+    author="ctrlpy",
+    author_email="ctrlpy@example.com",
     description="A simple utility for managing hostnames",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/YourUsername/hos-utility",
+    url="https://github.com/CtrlPy/hosty",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
