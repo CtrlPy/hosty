@@ -7,7 +7,7 @@ long_description = (HERE / "README.md").read_text()
 
 setup(
     name="hosty",
-    version="1.3.1",
+    version="1.0.0",
     packages=find_packages(),
     install_requires=[
         "urwid",

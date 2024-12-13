@@ -1,3 +1,13 @@
+# 1.0.0 (2024-12-13)
+
+
+### Features
+
+* fix name repo ([5da8cea](https://github.com/CtrlPy/hosty/commit/5da8ceae0081608604e36f46e458315299b2d9d3))
+* new repo hosty ([0a8698e](https://github.com/CtrlPy/hosty/commit/0a8698ef48d5e12011e930fea70a851016fcf890))
+* new token ([40b7fb8](https://github.com/CtrlPy/hosty/commit/40b7fb8c6c9c8ed805f2b12f1ef940c80f80dd9b))
+* publich utility ([f144d9c](https://github.com/CtrlPy/hosty/commit/f144d9cf18e782dca7f96f168afc03e050f068f5))
+
 ## [1.3.1](https://github.com/CtrlPy/hos-utility/compare/v1.3.0...v1.3.1) (2024-08-12)
 
 
