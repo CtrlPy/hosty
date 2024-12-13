@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/CtrlPy/hosty/compare/v1.0.0...v1.0.1) (2024-12-13)
+
+
+### Bug Fixes
+
+* rename py file ([4272a23](https://github.com/CtrlPy/hosty/commit/4272a23d99eb8528160c1e775ad217d552bac3e5))
+
 # 1.0.0 (2024-12-13)
 
 
