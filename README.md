@@ -23,7 +23,7 @@ To install **hosty** from the GitHub repository:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/CtrlPy/hos.git
+   git clone https://github.com/CtrlPy/hosty.git
    ```
 
 2. Navigate to the project directory:
